@@ -1,1 +1,1 @@
-consolo.log("Hello World")
+consolo.log("Hello GitHub")
